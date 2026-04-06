@@ -33,6 +33,12 @@ Practical AI training transforming how humanitarian professionals work with AI t
 
 *"Use AI's mind, not its memory"* -- emphasizing analytical capability over information retrieval.
 
+### GIZ AI Hub: AI in Social Protection ([socialprotectionai.org](https://socialprotectionai.org))
+Built the technical platform for the global AI in Social Protection tracker, commissioned by GIZ and led by the Digital Convergence Initiative (DCI). 99 verified AI use cases across 48 countries, backed by 460 documented sources. Partners include World Bank, UNICEF, ILO, and Expertise France.
+
+### DCI AI Use Case Review
+Comprehensive review of AI applications across social protection systems for the Digital Convergence Initiative, mapping how AI is being deployed in vulnerability assessment, fraud detection, eligibility determination, and beneficiary communication globally.
+
 ### NRC Sudan: AI-Enhanced Cash Decision Tool
 Production AI-powered decision support tool with 12 decision options, 87 integrated business rules, and 10+ modules. Live in production. Built with Django, PostgreSQL, Google Gemini, Auth0, and AWS.
 
