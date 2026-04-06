@@ -170,14 +170,11 @@ Our work contributes to the broader humanitarian community through:
 - AI implementation guides
 - Newsletter: "Tom's Aid&Dev Dispatches" (5,000+ subscribers)
 
-### Upcoming Open Source Projects
-We're committed to sharing knowledge and tools with the humanitarian community:
-- AI prompt libraries for humanitarian contexts
-- Data protection templates
-- Market analysis frameworks
-- Training materials
+### Open Source Projects
 
-*Watch this space for upcoming repository releases*
+**[AI Research Tools](https://github.com/marketimpact/opensource_airesearchtools)** - Autonomous multi-language OSINT research agent powered by local LLMs. Searches the web in 7 languages, extracts findings via Gemma 4, and scores them across 5 validation dimensions. Fully local, no cloud AI dependencies.
+
+**[Pakistan Flood Data Platform](https://github.com/marketimpact/pakistan-flood-data-platform)** - Open-source flood monitoring and visualization platform integrating Google Flood Hub API for real-time flood forecasting in Pakistan.
 
 ## 🤝 Get Involved
 
