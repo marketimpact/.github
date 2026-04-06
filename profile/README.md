@@ -174,7 +174,7 @@ Our work contributes to the broader humanitarian community through:
 
 **[AI Research Tools](https://github.com/marketimpact/opensource_airesearchtools)** - Autonomous multi-language OSINT research agent powered by local LLMs. Searches the web in 7 languages, extracts findings via Gemma 4, and scores them across 5 validation dimensions. Fully local, no cloud AI dependencies.
 
-**[Pakistan Flood Data Platform](https://github.com/marketimpact/pakistan-flood-data-platform)** - Open-source flood monitoring and visualization platform integrating Google Flood Hub API for real-time flood forecasting in Pakistan.
+**[Pakistan Flood Data Platform](https://github.com/marketimpact/pakistan-flood-data-platform-v2)** - Open-source flood monitoring and visualization platform integrating Google Flood Hub API for real-time flood forecasting in Pakistan.
 
 ## 🤝 Get Involved
 
