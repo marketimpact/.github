@@ -1,226 +1,107 @@
-# 🌍 MarketImpact Digital Solutions
+# MarketImpact Digital Solutions
 
-**Transforming Humanitarian Aid Through AI Innovation and Market Insights**
+**Systems. Strategy. Safety.**
 
 [![Website](https://img.shields.io/badge/Website-marketimpact.org-blue)](https://marketimpact.org)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-0077B5)](https://www.linkedin.com/company/marketimpact)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-0077B5)](https://www.linkedin.com/company/marketimpact-digital-solutions/)
 [![Newsletter](https://img.shields.io/badge/Newsletter-Subscribe-green)](https://www.linkedin.com/newsletters/tom-s-aid-dev-dispatches)
+[![AidGPT](https://img.shields.io/badge/AidGPT-aidgpt.org-orange)](https://www.aidgpt.org)
 
 ---
 
-## 🎯 Who We Are
+## Who We Are
 
-MarketImpact is a specialized consulting firm dedicated to enhancing the effectiveness of humanitarian aid through the integration of artificial intelligence (AI) and comprehensive market insights. We focus on delivering cost-efficient, AI-powered solutions tailored for the humanitarian and development sectors.
+MarketImpact is a full-stack humanitarian consulting firm that bridges the gap between digital innovation and humanitarian reality. We architect digital systems, funding strategies, and learning frameworks for humanitarian operations worldwide.
 
-### Our Mission
-Transform the humanitarian sector by providing organizations with the necessary tools, knowledge, and strategies to implement sustainable and impactful changes. We bridge the gap between technological advancements and human needs by combining data expertise with a profound understanding of on-the-ground challenges.
+**Practitioners first, consultants second.** Every recommendation we make has been validated in real crisis contexts with limited connectivity and resources. Our team brings 15+ years of lived field experience across 20+ countries and 50+ organizations.
 
-### Our Approach
-- 🤖 **AI-First Methodology**: Developing responsible AI solutions that enhance decision-making
-- 📊 **Data-Driven Insights**: Leveraging comprehensive market analysis and social protection expertise
-- 🌐 **Context-Aware Design**: Creating solutions adapted to complex humanitarian contexts
-- 🔒 **Privacy-Focused**: Implementing robust data protection and GDPR compliance measures
-- 🤝 **Capacity Building**: Empowering teams through training and knowledge transfer
+## Our Services
 
-## 💼 Our Services
+### 1. Digital Systems & AI
+OpenIMIS integration, registration systems architecture, data pipelines, and AI workflow implementation for humanitarian operations.
 
-### 1. Digital Transformation Consulting
-Assisting humanitarian organizations in adopting digital innovations and integrating data-driven approaches to enhance operational efficiency.
+### 2. Program Strategy & Growth
+Donor mapping analysis, proposal writing and design, theory of change development, and monitoring & evaluation frameworks.
 
-**Key Deliverables:**
-- Digital ecosystem assessments
-- Technology roadmap development
-- System integration strategies
-- Change management support
+### 3. Learning & Behavior Change
+EORE (Explosive Ordnance Risk Education) programs, AidGPT AI training, protection standards implementation, and behavior change interventions.
 
-### 2. AI for Good
-Developing bespoke, cost-effective AI solutions that cater to specific sectoral requirements, improving decision-making processes and outcomes.
+## Flagship Programs
 
-**Specializations:**
-- AI-enhanced decision support tools
-- Natural language processing for humanitarian contexts
-- Predictive analytics for crisis response
-- Automated data analysis and reporting
+### AidGPT Academy
+Practical AI training transforming how humanitarian professionals work with AI tools. Role-based AI workflows with protection-first ethics and data safeguards. Piloted with NRC Sudan (20+ staff trained).
 
-### 3. Market Analysis & Social Protection
-Providing data-driven insights to optimize social protection systems and implement effective market-based interventions.
+*"Use AI's mind, not its memory"* -- emphasizing analytical capability over information retrieval.
 
-**Capabilities:**
-- Market functionality assessments
-- Cash and Voucher Assistance (CVA) design
-- Social protection system integration
-- Economic impact analysis
+### NRC Sudan: AI-Enhanced Cash Decision Tool
+Production AI-powered decision support tool with 12 decision options, 87 integrated business rules, and 10+ modules. Live in production. Built with Django, PostgreSQL, Google Gemini, Auth0, and AWS.
 
-### 4. AI Implementation Training
-Conducting in-person and remote training programs to introduce humanitarian professionals to the fundamentals of AI and data-driven market analysis.
+### Humanitarian Finance Innovation
+Research and piloting of stablecoin treasury infrastructure for aid delivery:
+- 34% more value preserved in transfers
+- 80%+ cost reduction on transfer fees
+- 99% faster settlement times
+- Field-proven in Sudan, Myanmar, Afghanistan
 
-**Training Modules:**
-- AI fundamentals for humanitarian work
-- Prompt engineering and effective AI communication
-- Data protection and ethical AI use
-- Department-specific AI applications
+## Open Source Projects
 
-## 🚀 Featured Projects
+**[AI Research Tools](https://github.com/marketimpact/opensource_airesearchtools)** -- Autonomous multi-language OSINT research agent powered by local LLMs. Searches the web in 7 languages, extracts findings via Gemma 4, and scores them across 5 validation dimensions. Fully local, no cloud AI dependencies.
 
-### NRC Sudan: AI-Enhanced Cash Decision Support Tool
-**Duration:** 2025
-**Impact:** Streamlined cash-based intervention decisions for humanitarian aid delivery in Sudan
+**[Pakistan Flood Data Platform](https://github.com/marketimpact/pakistan-flood-data-platform-v2)** -- Open-source flood monitoring and visualization platform integrating Google Flood Hub API for real-time flood forecasting in Pakistan.
 
-Developed an AI-powered decision support tool featuring:
-- User authentication and assessment interfaces
-- Dynamic branching logic
-- AI-driven recommendation engine
-- Automated reporting modules
-- Standardized data collection framework
-
-**Technologies:** Python, Django, AI/ML integration
-
----
-
-### GIZ Pakistan: Adaptive Social Protection Programme
-**Duration:** 2024-2026
-**Scope:** Digital infrastructure enhancement for Pakistan's social protection system
-
-Key achievements:
-- MIS gap analysis and maturity assessments
-- Interoperability roadmap creation
-- AI applications for surveys and data validation
-- National technical working group coordination
-
-**Technologies:** Digital infrastructure, AI integration, Data interoperability
-
----
-
-### Ukraine Digital Transformation: Social Protection Systems
-**Duration:** 2022-2024
-**Impact:** Enhanced Ukraine's social protection infrastructure during active conflict
-
-Delivered comprehensive analysis and recommendations on:
-- Unified Information System of the Social Sphere (UISSS)
-- Integration with national Diia platform
-- Humanitarian-social protection linkages
-- Data protection and system interoperability
-
-**Publications:** Multiple technical reports for DAI/STAAR
-
----
-
-### Estonian Refugee Council: AI Implementation Workshop
-**Duration:** November 2024
-**Impact:** Practical AI adoption across multiple departments
-
-Facilitated hands-on training resulting in:
-- Department-specific AI use case development
-- Prompt engineering framework adoption
-- Knowledge sharing across teams
-- Sustainable implementation strategies
-
-**Outcome:** Established AI capabilities for procurement, communications, and data analysis teams
-
-## 🎓 Our Expertise
-
-### Technical Capabilities
-- **AI & Machine Learning**: Generative AI, NLP, predictive analytics
-- **Digital Solutions**: Web applications, data platforms, automation
-- **Data Protection**: GDPR compliance, privacy impact assessments
-- **System Integration**: Interoperability, data exchange protocols
-
-### Sectoral Knowledge
-- **Humanitarian Cash Programming**: CVA, MPG, market-based interventions
-- **Social Protection**: System design, shock-responsiveness, registry integration
-- **Market Analysis**: EMMA, RAM, supply chain assessment
-- **Crisis Response**: Emergency preparedness, rapid needs assessment
-
-### Geographic Experience
-Over 15 years of experience across 20+ countries:
-- **Europe**: Ukraine, Greece, Poland, Serbia, Armenia, Cyprus
-- **Middle East**: Yemen, Syria, Lebanon, Iraq, Jordan, Palestine
-- **Africa**: Kenya, South Sudan, Somalia, Mozambique, Zimbabwe, Malawi
-- **Asia**: Pakistan, Philippines, Sri Lanka
-
-## 👥 Leadership
+## Leadership
 
 ### Thomas Byrnes
-**Founder & Director**
+**CEO & Lead Consultant**
 
-With over 15 years of experience in humanitarian aid and technology, Thomas brings a unique combination of field expertise and technical innovation. His background encompasses both hands-on humanitarian work and cutting-edge digital transformation, making him a trusted advisor to humanitarian and development organizations worldwide.
+15+ years architecting digital solutions for complex crises, bridging strategic programming with technical implementation. Expertise spans systems architecture, AI deployment, digital social protection, and cash assistance programming.
 
-**Key Qualifications:**
 - MSc Development Studies (SOAS)
-- 15+ years humanitarian experience
-- Expert in AI for humanitarian applications
-- Published researcher on social protection systems
-- Former roles: Regional Coordinator (DRC), CashCap Expert (NORCAP), Adviser to HC/RC Yemen
+- Former: Regional Coordinator (DRC), CashCap Expert (NORCAP), Adviser to HC/RC Yemen
+- [LinkedIn](https://www.linkedin.com/in/thomasbyrnes/) | [ResearchGate](https://www.researchgate.net/profile/Thomas-Byrnes)
 
-**Recent Publications:**
-- "The Unraveling of U.S. Humanitarian Assistance" (2025)
-- "Integrating AI into Humanitarian Operations: NRC Ukraine Case Study" (2024)
-- "Unified Information System of the Social Sphere (UISSS)" (2024)
-- Multiple technical reports on Ukraine's social protection systems (2022-2024)
+### Avril James
+**Director of Global Operations**
 
-📧 Contact: thomas@marketimpact.org
-🔗 LinkedIn: [Connect with Thomas](https://www.linkedin.com/in/thomas-byrnes)
+Program design and implementation specialist with field experience across Turkey, Jordan, Lebanon, Sierra Leone, Greece, Palestine, Sudan, and Ukraine. Expertise in CVA programming, emergency response, and AI evaluation.
 
-## 📚 Resources & Contributions
+- [LinkedIn](https://www.linkedin.com/in/avril-james-99a987131/)
 
-### Publications & Research
-Our work contributes to the broader humanitarian community through:
-- Technical reports and case studies
-- Working papers on aid effectiveness
-- AI implementation guides
-- Newsletter: "Tom's Aid&Dev Dispatches" (5,000+ subscribers)
+## Our Impact
 
-### Open Source Projects
+- **50+ organizations** served across Europe, Middle East, Africa, and Asia
+- **20+ countries** of operational experience
+- **137,000+ registrations** processed through our systems
+- **15+ years** of humanitarian field experience
 
-**[AI Research Tools](https://github.com/marketimpact/opensource_airesearchtools)** - Autonomous multi-language OSINT research agent powered by local LLMs. Searches the web in 7 languages, extracts findings via Gemma 4, and scores them across 5 validation dimensions. Fully local, no cloud AI dependencies.
+## Trusted By
 
-**[Pakistan Flood Data Platform](https://github.com/marketimpact/pakistan-flood-data-platform-v2)** - Open-source flood monitoring and visualization platform integrating Google Flood Hub API for real-time flood forecasting in Pakistan.
+IRC | UNICEF | IFRC | NRC | GIZ | Caritas Switzerland | Estonian Refugee Council | UN OCHA | Algorand Foundation
 
-## 🤝 Get Involved
+## Resources
 
-### For Organizations
-Interested in digital transformation or AI implementation for your humanitarian programs?
-- 📧 Email: info@marketimpact.org
-- 🌐 Website: [marketimpact.org](https://marketimpact.org)
-- 💼 LinkedIn: [MarketImpact Digital Solutions](https://www.linkedin.com/company/marketimpact)
+- **Data Dashboard**: [data.marketimpact.org](https://data.marketimpact.org/) -- humanitarian funding flows
+- **FX Rates Tool**: [data.marketimpact.org/fx](https://data.marketimpact.org/fx)
+- **AidGPT Training**: [aidgpt.org](https://www.aidgpt.org)
+- **Blog & Research**: [marketimpact.org/blog](https://marketimpact.org/blog)
+- **Reports**: [marketimpact.org/reports](https://marketimpact.org/reports)
+- **Newsletter**: [Tom's Aid&Dev Dispatches](https://www.linkedin.com/newsletters/tom-s-aid-dev-dispatches)
 
-### For Researchers & Collaborators
-We welcome collaboration on:
-- Research partnerships
-- Technical innovation projects
-- Knowledge sharing initiatives
-- Speaking engagements
+## Get In Touch
 
-### Subscribe to Our Newsletter
-Stay updated on humanitarian technology trends, AI applications, and sector insights:
-- 📰 [Tom's Aid&Dev Dispatches](https://www.linkedin.com/newsletters/tom-s-aid-dev-dispatches)
-- 114,000+ annual article views
-- Weekly insights on aid effectiveness and innovation
+Interested in digital transformation or AI implementation for your humanitarian programs? We deliver tailored consultation proposals within 24 hours.
 
----
-
-## 🌟 Our Impact
-
-- **20+ Countries** served across Europe, Middle East, Africa, and Asia
-- **15+ Years** of humanitarian experience
-- **Multiple AI Solutions** deployed in active humanitarian operations
-- **5,000+ Newsletter Subscribers** in the aid & development community
-- **Training Programs** delivered to leading humanitarian organizations
-
----
-
-## 📄 License & Usage
-
-Unless otherwise specified, our open-source contributions are available under MIT License. Please review individual repository licenses for specific terms.
+- **Email**: info@marketimpact.org
+- **Website**: [marketimpact.org](https://marketimpact.org)
+- **LinkedIn**: [MarketImpact Digital Solutions](https://www.linkedin.com/company/marketimpact-digital-solutions/)
 
 ---
 
 <div align="center">
 
 **MarketImpact Digital Solutions Ltd**
-Registered in Cyprus (HE 473081)
-Based in Paphos, Cyprus
+Gladstonos 12, Paphos, 8046, Cyprus
 
-*Bridging Technology and Humanitarian Action*
+*Systems. Strategy. Safety.*
 
 </div>
