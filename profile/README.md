@@ -37,11 +37,7 @@ Practical AI training transforming how humanitarian professionals work with AI t
 Production AI-powered decision support tool with 12 decision options, 87 integrated business rules, and 10+ modules. Live in production. Built with Django, PostgreSQL, Google Gemini, Auth0, and AWS.
 
 ### Humanitarian Finance Innovation
-Research and piloting of stablecoin treasury infrastructure for aid delivery:
-- 34% more value preserved in transfers
-- 80%+ cost reduction on transfer fees
-- 99% faster settlement times
-- Field-proven in Sudan, Myanmar, Afghanistan
+Research into stablecoin treasury infrastructure for humanitarian aid delivery, exploring how digital currency rails can reduce friction in cross-border transfers to crisis contexts.
 
 ## Open Source Projects
 
