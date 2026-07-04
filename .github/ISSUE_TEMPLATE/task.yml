@@ -1,0 +1,25 @@
+name: Task
+description: Track a scoped improvement, cleanup, or follow-up.
+title: "[task] "
+body:
+  - type: textarea
+    id: goal
+    attributes:
+      label: Goal
+      description: What should be true when this is done?
+    validations:
+      required: true
+  - type: textarea
+    id: scope
+    attributes:
+      label: Scope
+      description: Include affected repos/apps, constraints, and anything explicitly out of scope.
+    validations:
+      required: true
+  - type: textarea
+    id: checks
+    attributes:
+      label: Verification
+      description: Which checks, tests, or manual verification should prove this is complete?
+    validations:
+      required: false
